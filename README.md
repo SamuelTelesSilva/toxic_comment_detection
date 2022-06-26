@@ -38,12 +38,12 @@ João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic
     * undersampling
     * oversampling
 
-* Classificação de texto binário com BERT, Keras e Hugging Face 🤗
+* Classificação de texto binária com BERT, Keras e Hugging Face 🤗
   * Modelo BERT pré-treinado para o português do Brasil - [BERTimbau Base](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
     * token das palavras
     * id das palavras
     * Obtendo vetores das palavras
-  * BERT e Keras para Classificação de texto binário
+  * BERT e Keras para Classificação de texto binária
 
 
 # Notebooks
