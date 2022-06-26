@@ -105,6 +105,7 @@ https://colab.research.google.com/drive/1_RrHcsnQCbyWvOZ1MnvswmCys3WTXH-R?usp=sh
 
 # Licença 🚩
 
+
 The source code for the site is licensed under the MIT license, which you can find in the [LICENSE](https://github.com/SamuelTelesSilva/toxic_comment_detection/blob/main/LICENSE) file.
 
 
